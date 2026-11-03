@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=29230131_002D83aa_002D4dc8_002Dbc7d_002Dd39fe99bc1de/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GlobalTestSetup" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E61148B0-A98E-C241-2F9D-840A045749D5::net9.0::Paypal.GlobalTestSetup&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=49d9d6d9_002Dcc54_002D4a6c_002D94d3_002D5ba1ab0890e8/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TransfersTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E61148B0-A98E-C241-2F9D-840A045749D5::net9.0::Paypal.TransfersTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=78730674_002D4d73_002D4fb2_002Db3b4_002D02e19b798b10/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GlobalTestSetup #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E61148B0-A98E-C241-2F9D-840A045749D5::net9.0::Paypal.GlobalTestSetup&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
